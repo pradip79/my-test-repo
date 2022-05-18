@@ -23,5 +23,6 @@ public class AppTest
     public void shouldAnswerWithFalse()
     {
         assertFalse( true );
+        assertTrue(false);
     }
 }
